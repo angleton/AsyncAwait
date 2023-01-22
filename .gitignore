@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SimpleAsyncDemo/FileContentIndex/19bfd96a-291c-46c6-8045-8372ccccd42d.vsidx
+/.vs/SimpleAsyncDemo/FileContentIndex/read.lock
+/.vs/SimpleAsyncDemo/v17/.suo
+/WPFUserInterface/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll
+/WPFUserInterface/obj/Debug/TempPE
+/WPFUserInterface/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/WPFUserInterface/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+/WPFUserInterface/obj/Debug/WPFUserInterface.csproj.FileListAbsolute.txt
+/WPFUserInterface/Properties/Settings.settings
+/WPFUserInterface/Properties/Resources.resx
+/WPFUserInterface/App.config
